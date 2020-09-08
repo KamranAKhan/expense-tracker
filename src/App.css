@@ -208,7 +208,7 @@ header{
 /* NewTransaction List Component Css Ends */
 
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 550px) {
   .expense-tracker {
     width: 100%;    
     margin: 0 auto;
